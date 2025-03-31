@@ -52,6 +52,9 @@ To measure segmentation accuracy, we use:
 This project demonstrates **cloud-based deep learning** for **semantic segmentation**. Using **AWS SageMaker**, a **Fully Convolutional Network (FCN)** is trained and deployed to segment pet images efficiently. The model is scalable and performs real-time segmentation.
 
 
+![Screenshot 2025-03-31 152832](https://github.com/user-attachments/assets/b8d71b41-b202-4ac5-b760-722704b64191)
+
+![Screenshot 2025-03-31 152838](https://github.com/user-attachments/assets/d7a049cf-73e9-4ae0-81d1-9b5aa68ff1e4)
 
 
 
